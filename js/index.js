@@ -1,2 +1,2 @@
-const nome = prompt.nome('Digite seu nome');
-console.log(nome);
+const nome = prompt('Olá, qual seu nome?');
+console.log('Seja bem-vindo' + nome);
